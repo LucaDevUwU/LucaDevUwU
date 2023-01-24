@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SnowyyUwU
-- 👀 I’m interested in computers, Kotlin, Java, Javascript, HTML, and python
+- 👀 I’m interested in computers and Languages like Kotlin, Java, HTML, and Python
 - 💞️ I’m looking to collaborate on Minecraft plugins and mods
 
 <!---
