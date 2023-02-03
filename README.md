@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SnowyyUwU
+- 👋 Hi, I’m Luca
 - 👀 I’m interested in computers and Languages like Kotlin, Java, HTML, and Python
 - 💞️ I’m looking to collaborate on Minecraft plugins and mods
 
